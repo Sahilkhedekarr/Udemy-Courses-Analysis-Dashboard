@@ -3,7 +3,7 @@
 This report analyzes Udemy's 2011-2017 course performance using KPIs and trends from a Power BI dashboard.
 This dashboard provides a comprehensive overview of Udemy courses across key dimensions like subject, pricing, reviews, and engagement metrics. Below are the key takeaways
 
-#Key Insights
+* Key Insights
 -Course Accessibility:
 
   -A massive 91.57% of the courses are paid, while only 8.43% are free.
