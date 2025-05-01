@@ -6,9 +6,9 @@ This dashboard provides a comprehensive overview of Udemy courses across key dim
 # Key Insights
 *Course Accessibility:
 
-  *A massive 91.57% of the courses are paid, while only 8.43% are free.
+  * A massive 91.57% of the courses are paid, while only 8.43% are free.
 
-*Top Subjects by Lectures:
+* Top Subjects by Lectures:
 
   *Web Development leads with 42.96% of total lectures, followed by Business Finance (26.27%).
 
